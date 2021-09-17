@@ -1,0 +1,275 @@
+{
+  "project_info": {
+    "project_number": "572083773591",
+    "firebase_url": "https://myapplicapiapp.firebaseio.com",
+    "project_id": "myapplicapiapp",
+    "storage_bucket": "myapplicapiapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572083773591:android:c37156cf236006f41dc9d2",
+        "android_client_info": {
+          "package_name": "com.example.andy.testapplic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "572083773591-riq9a6054632keg1hs88v08a9tbhcpel.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.andy.testapplic",
+            "certificate_hash": "4c7610922c9efabfb74710a1aa7d8b90e3ff4fbf"
+          }
+        },
+        {
+          "client_id": "572083773591-0b0p8agcsjbaf5p38hsvvt0o6t4t309c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY3tbgnCie8ulED90rNCwQA-j2B93DoeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "572083773591-0b0p8agcsjbaf5p38hsvvt0o6t4t309c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572083773591:android:697c2b42f0bd1aad1dc9d2",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "572083773591-jji46vdq8jm50lv0vm8b294u0u76g4ug.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatapp",
+            "certificate_hash": "4c7610922c9efabfb74710a1aa7d8b90e3ff4fbf"
+          }
+        },
+        {
+          "client_id": "572083773591-0b0p8agcsjbaf5p38hsvvt0o6t4t309c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY3tbgnCie8ulED90rNCwQA-j2B93DoeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "572083773591-0b0p8agcsjbaf5p38hsvvt0o6t4t309c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572083773591:android:5506457710fefcd41dc9d2",
+        "android_client_info": {
+          "package_name": "com.example.instagramtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "572083773591-1ae6m6e4dv9pkg3lct3njagg9isrjcln.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.instagramtest",
+            "certificate_hash": "4c7610922c9efabfb74710a1aa7d8b90e3ff4fbf"
+          }
+        },
+        {
+          "client_id": "572083773591-0b0p8agcsjbaf5p38hsvvt0o6t4t309c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY3tbgnCie8ulED90rNCwQA-j2B93DoeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "572083773591-0b0p8agcsjbaf5p38hsvvt0o6t4t309c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572083773591:android:1c1c0541371d4e021dc9d2",
+        "android_client_info": {
+          "package_name": "com.example.myapplicapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "572083773591-0b0p8agcsjbaf5p38hsvvt0o6t4t309c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY3tbgnCie8ulED90rNCwQA-j2B93DoeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "572083773591-0b0p8agcsjbaf5p38hsvvt0o6t4t309c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572083773591:android:0e54462f61bd14461dc9d2",
+        "android_client_info": {
+          "package_name": "com.hypertrack.ridesharing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "572083773591-0b0p8agcsjbaf5p38hsvvt0o6t4t309c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY3tbgnCie8ulED90rNCwQA-j2B93DoeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "572083773591-0b0p8agcsjbaf5p38hsvvt0o6t4t309c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572083773591:android:c051b0db475564551dc9d2",
+        "android_client_info": {
+          "package_name": "com.passbase.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "572083773591-qeiu6b3skqlb4k9kqrgi8j07f0hp0s2g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.passbase.demo",
+            "certificate_hash": "4c7610922c9efabfb74710a1aa7d8b90e3ff4fbf"
+          }
+        },
+        {
+          "client_id": "572083773591-0b0p8agcsjbaf5p38hsvvt0o6t4t309c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY3tbgnCie8ulED90rNCwQA-j2B93DoeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "572083773591-0b0p8agcsjbaf5p38hsvvt0o6t4t309c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572083773591:android:adc9da97d1aa9c1c1dc9d2",
+        "android_client_info": {
+          "package_name": "exceptions.com.javadriverapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "572083773591-0b0p8agcsjbaf5p38hsvvt0o6t4t309c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY3tbgnCie8ulED90rNCwQA-j2B93DoeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "572083773591-0b0p8agcsjbaf5p38hsvvt0o6t4t309c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572083773591:android:cca23f3d0e4c7edb1dc9d2",
+        "android_client_info": {
+          "package_name": "exceptions.com.javapassengerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "572083773591-0b0p8agcsjbaf5p38hsvvt0o6t4t309c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY3tbgnCie8ulED90rNCwQA-j2B93DoeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "572083773591-0b0p8agcsjbaf5p38hsvvt0o6t4t309c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
